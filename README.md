@@ -1,6 +1,6 @@
 NextJS 14 Boilerplate
 
-NextJS 14 boilerplate with Tailwind, typescript and pre-commit linters and formatters ready to go. 
+NextJS 14 boilerplate with Tailwind, typescript and pre-commit linters and formatters ready to go.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
