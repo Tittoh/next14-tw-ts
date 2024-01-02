@@ -1,4 +1,4 @@
-NextJS 14 Boilerplate
+# NextJS 14 Boilerplate
 
 NextJS 14 boilerplate with Tailwind, typescript and pre-commit linters and formatters ready to go.
 
