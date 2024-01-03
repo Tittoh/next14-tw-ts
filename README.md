@@ -2,6 +2,18 @@
 
 NextJS 14 boilerplate with Tailwind, typescript and pre-commit linters and formatters ready to go.
 
+## Features
+
+- NextJS 14
+- Tailwind CSS
+- Typescript
+- Headless UI
+- Hero Icons
+- Prettier
+- ESlint
+- Pre-commit (Lint & format staged files)
+- Test workflow
+
 ## Getting Started
 
 First, run the development server:
