@@ -11,8 +11,9 @@ NextJS 14 boilerplate with Tailwind, typescript and pre-commit linters and forma
 - Hero Icons
 - Prettier
 - ESlint
+- Jest testing
 - Pre-commit (Lint & format staged files)
-- Test workflow
+- GitHub workflow
 
 ## Getting Started
 
