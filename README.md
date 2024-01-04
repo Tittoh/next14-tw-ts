@@ -1,6 +1,6 @@
-# NextJS 14 Boilerplate
+# NextJS 14 + Tailwind + Typescript Bare Bone template
 
-NextJS 14 boilerplate with Tailwind, typescript and pre-commit linters and formatters ready to go.
+NextJS 14 (App Router), Tailwind and Typescript bare bone boilerplate with testing, pre-commit linters and formatters ready to go.
 
 ## Features
 
@@ -49,3 +49,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Contributions
+
+This template is open source and contributions are welcome! Feel free to open issues, fix bugs, and make suggestions for improvements.
+
+## License
+
+This template is released under the MIT license. See [LICENSE](LICENSE) for more details.
